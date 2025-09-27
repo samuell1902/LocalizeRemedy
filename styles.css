@@ -43,7 +43,11 @@ body {
     position: fixed;
     bottom: 20px;
     right: 20px;
+<<<<<<< HEAD
     padding: 40px 10px;
+=======
+    padding: 40px 50px;
+>>>>>>> 1a5aafe (primeiro commit)
     font-size: 26px;
     font-weight: bolder;
     background: rgb(203, 203, 203);
@@ -64,6 +68,7 @@ body {
     transform: scale(1.1);
     background: rgb(121, 127, 152);
 }
+<<<<<<< HEAD
 
 #arrow {
     width: 50%;
@@ -89,3 +94,5 @@ body {
     font: normal bold 70px sans-serif;
     color: rgba(18, 39, 60);
 }
+=======
+>>>>>>> 1a5aafe (primeiro commit)
